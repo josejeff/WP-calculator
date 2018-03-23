@@ -10,7 +10,7 @@ if($_SESSION['id'] != $_POST['id']) die(); // CSRF attack
 
 $response = [];
 
-$con = mysqli_connect('localhost', 'root', '', 'test_site');
+$con = mysqli_connect('localhost', 'root', '', 'wp');
 
 $newPass = mysqli_real_escape_string($con, $_POST['newPass']);
 

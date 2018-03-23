@@ -1,11 +1,11 @@
 {
-  "name": "angularjs-mysql-tutorial",
+  "name": "WP-calulator",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
     "dev": "lite-server"
   },
-  "author": "codedamn",
+  "author": "justin",
   "license": "ISC"
 }

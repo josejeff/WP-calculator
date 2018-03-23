@@ -9,7 +9,7 @@ session_start();
 
 $response = [];
 
-$con = mysqli_connect('localhost', 'root', '', 'test');
+$con = mysqli_connect('localhost', 'root', '', 'wp');
 
 $username = mysqli_real_escape_string($con, $_POST['username']);
 $password = mysqli_real_escape_string($con, $_POST['password']);

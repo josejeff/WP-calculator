@@ -2,7 +2,7 @@ var app = angular.module('main', ['ngRoute']);
 
 app.config(function($routeProvider, $locationProvider) {
 	$routeProvider.when('/', {
-		templateUrl: './components/home.html',
+		templateUrl: './WP-calculator/components/home.html',
 		controller: 'homeCtrl'
 	}).when('/logout', {
 		resolve: {
@@ -12,7 +12,7 @@ app.config(function($routeProvider, $locationProvider) {
 			}
 		}
 	}).when('/login', {
-		templateUrl: './components/login.html',
+		templateUrl: './WP-calculator/components/login.html',
 		controller: 'loginCtrl'
 	}).when('/dashboard', {
 		resolve: {
@@ -22,11 +22,12 @@ app.config(function($routeProvider, $locationProvider) {
 				}
 			},
 		},
-		templateUrl: './components/dashboard.html',
+		templateUrl: './WP-calculator/components/dashboard.html',
 		controller: 'dashboardCtrl'
 	})
 	.otherwise({
-		template: '404'
+
+		redirectTo:'/'
 	});
 
 	$locationProvider.html5Mode(true);
@@ -90,7 +91,7 @@ app.controller('loginCtrl', function($scope, $http, $location, user) {
 		var username = $scope.username;
 		var password = $scope.password;
 		$http({
-			url: 'http://localhost/angularjs-mysql/server.php',
+			url: 'http://localhost/WP-calculator/angularjs-mysql/server.php',
 			method: 'POST',
 			headers: {
 				'Content-Type': 'application/x-www-form-urlencoded'
@@ -113,7 +114,7 @@ app.controller('dashboardCtrl', function($scope, user, $http) {
 	$scope.newPass = function() {
 		var password = $scope.newpassword;
 		$http({
-			url: 'http://localhost/angularjs-mysql/updatePass.php',
+			url: 'http://localhost/WP-calculator/angularjs-mysql/updatePass.php',
 			method: 'POST',
 			headers: {
 				'Content-Type': 'application/x-www-form-urlencoded'
