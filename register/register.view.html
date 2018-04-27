@@ -1,30 +1,86 @@
-<div class="col-md-6 col-md-offset-3">
+<div class="col-md-4 content-center">
+    <div class="card card-login card-plain">
     <h2>Register</h2>
-    <form name="form" ng-submit="vm.register()" role="form">
-        <div class="form-group" ng-class="{ 'has-error': form.firstName.$dirty && form.firstName.$error.required }">
-            <label for="username">First name</label>
-            <input type="text" name="firstName" id="firstName" class="form-control" ng-model="vm.user.firstName" required />
-            <span ng-show="form.firstName.$dirty && form.firstName.$error.required" class="help-block">First name is required</span>
+    <form id="signup-form">
+        <div class="form-group">
+            <label for="email">Email</label>
+            <input type="text" name="email" id="email" class="form-control" ng-model="email" required />
         </div>
-        <div class="form-group" ng-class="{ 'has-error': form.lastName.$dirty && form.lastName.$error.required }">
-            <label for="username">Last name</label>
-            <input type="text" name="lastName" id="Text1" class="form-control" ng-model="vm.user.lastName" required />
-            <span ng-show="form.lastName.$dirty && form.lastName.$error.required" class="help-block">Last name is required</span>
-        </div>
-        <div class="form-group" ng-class="{ 'has-error': form.username.$dirty && form.username.$error.required }">
+        <div class="form-group">
             <label for="username">Username</label>
-            <input type="text" name="username" id="username" class="form-control" ng-model="vm.user.username" required />
-            <span ng-show="form.username.$dirty && form.username.$error.required" class="help-block">Username is required</span>
+            <input type="text" name="username" id="username" class="form-control" ng-model="username" required />
+
         </div>
-        <div class="form-group" ng-class="{ 'has-error': form.password.$dirty && form.password.$error.required }">
+        <div class="form-group">
             <label for="password">Password</label>
-            <input type="password" name="password" id="password" class="form-control" ng-model="vm.user.password" required />
-            <span ng-show="form.password.$dirty && form.password.$error.required" class="help-block">Password is required</span>
+            <input type="password" name="password" id="password" class="form-control" ng-model="password" required />
+        </div>
+        <div class="form-group">
+            <label for="reenterpassword">Re-Enter Password</label>
+            <input type="password" name="reenterpassword" id="reenterpassword" class="form-control" ng-model="reenterpassword" required />
         </div>
         <div class="form-actions">
-            <button type="submit" ng-disabled="form.$invalid || vm.dataLoading" class="btn btn-primary">Register</button>
+            <button ng-click="addCustomer()" class="btn btn-primary">Register</button>
             <img ng-if="vm.dataLoading" src="data:image/gif;base64,R0lGODlhEAAQAPIAAP///wAAAMLCwkJCQgAAAGJiYoKCgpKSkiH/C05FVFNDQVBFMi4wAwEAAAAh/hpDcmVhdGVkIHdpdGggYWpheGxvYWQuaW5mbwAh+QQJCgAAACwAAAAAEAAQAAADMwi63P4wyklrE2MIOggZnAdOmGYJRbExwroUmcG2LmDEwnHQLVsYOd2mBzkYDAdKa+dIAAAh+QQJCgAAACwAAAAAEAAQAAADNAi63P5OjCEgG4QMu7DmikRxQlFUYDEZIGBMRVsaqHwctXXf7WEYB4Ag1xjihkMZsiUkKhIAIfkECQoAAAAsAAAAABAAEAAAAzYIujIjK8pByJDMlFYvBoVjHA70GU7xSUJhmKtwHPAKzLO9HMaoKwJZ7Rf8AYPDDzKpZBqfvwQAIfkECQoAAAAsAAAAABAAEAAAAzMIumIlK8oyhpHsnFZfhYumCYUhDAQxRIdhHBGqRoKw0R8DYlJd8z0fMDgsGo/IpHI5TAAAIfkECQoAAAAsAAAAABAAEAAAAzIIunInK0rnZBTwGPNMgQwmdsNgXGJUlIWEuR5oWUIpz8pAEAMe6TwfwyYsGo/IpFKSAAAh+QQJCgAAACwAAAAAEAAQAAADMwi6IMKQORfjdOe82p4wGccc4CEuQradylesojEMBgsUc2G7sDX3lQGBMLAJibufbSlKAAAh+QQJCgAAACwAAAAAEAAQAAADMgi63P7wCRHZnFVdmgHu2nFwlWCI3WGc3TSWhUFGxTAUkGCbtgENBMJAEJsxgMLWzpEAACH5BAkKAAAALAAAAAAQABAAAAMyCLrc/jDKSatlQtScKdceCAjDII7HcQ4EMTCpyrCuUBjCYRgHVtqlAiB1YhiCnlsRkAAAOwAAAAAAAAAAAA==" />
             <a href="#!/login" class="btn btn-link">Cancel</a>
         </div>
     </form>
 </div>
+</div>
+
+
+<script >
+    $().ready(function (){
+        $("#signup-form").validate({
+            rules: {
+                email: {
+                    required: true,
+                    email: true,
+                    remote: {
+                        url: "./model/checkcredentials.php",
+                        type: "post"
+                    }
+                },
+                password:{
+                    required: true,
+                    minlength: 6
+                },
+                reenterpassword:{
+                    required:true,
+                    equalTo: "#password"
+
+                },
+                userid: {
+                    required: true,
+                    minlength: 5,
+                    remote: {
+                        url: "./model/checkcredentials.php",
+                        type: "post"
+                    }
+                }
+            },
+            messages: {
+                username:{
+                    required:"Please enter a username.",
+                    minlength: "Your username must consist of at least 5 characters",
+                    remote:"This username is already taken."
+                },
+                email: {
+                    required:"Please enter an email address.",
+                    email:"Please enter a valid email address",
+                    remote:"This email is already in use."
+                },
+                password:{
+                    required:"Please enter a password.",
+                    minlength:"Your password must consist of at least 6 characters"
+                },
+                reenterpassword:{
+                    required: "Please enter your password again.",
+                    equalTo:"Your password does not match"
+                }
+            }
+        });
+
+
+    });
+</script>

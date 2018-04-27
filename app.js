@@ -1,51 +1,141 @@
-(function () {
-    'use strict';
+var app = angular.module('app', ['ngRoute', 'ngCookies']);
 
-    angular
-        .module('app', ['ngRoute', 'ngCookies'])
-        .config(config)
-        .run(run);
+app.config(function($routeProvider, $locationProvider) {
+    $routeProvider
+        .when('/home', {
+            controller: 'dashboardCtrl',
+            templateUrl: 'home/home.view.html',
+        })
 
-    config.$inject = ['$routeProvider', '$locationProvider'];
-    function config($routeProvider, $locationProvider) {
-        $routeProvider
-            .when('/', {
-                controller: 'HomeController',
-                templateUrl: 'home/home.view.html',
-                controllerAs: 'vm'
-            })
+        .when('/login', {
+            controller: 'loginCtrl',
+            templateUrl: 'login/login.view.html',
 
-            .when('/login', {
-                controller: 'LoginController',
-                templateUrl: 'login/login.view.html',
-                controllerAs: 'vm'
-            })
+        })
 
-            .when('/register', {
-                controller: 'RegisterController',
-                templateUrl: 'register/register.view.html',
-                controllerAs: 'vm'
-            })
+        .when('/register', {
+            controller: 'loginCtrl',
+            templateUrl: 'register/register.view.html',
+        })
 
-            .otherwise({ redirectTo: '/login' });
-    }
-
-    run.$inject = ['$rootScope', '$location', '$cookieStore', '$http'];
-    function run($rootScope, $location, $cookieStore, $http) {
-        // keep user logged in after page refresh
-        $rootScope.globals = $cookieStore.get('globals') || {};
-        if ($rootScope.globals.currentUser) {
-            $http.defaults.headers.common['Authorization'] = 'Basic ' + $rootScope.globals.currentUser.authdata; // jshint ignore:line
-        }
-
-        $rootScope.$on('$locationChangeStart', function (event, next, current) {
-            // redirect to login page if not logged in and trying to access a restricted page
-            var restrictedPage = $.inArray($location.path(), ['/login', '/register']) === -1;
-            var loggedIn = $rootScope.globals.currentUser;
-            if (restrictedPage && !loggedIn) {
-                $location.path('/login');
+        .otherwise({redirectTo: '/login'});
+});
+var userLevel;
+app.controller('loginCtrl', function ($scope,$http,$location,user,userInfo) {
+    $scope.login = function() {
+        var username = $scope.username;
+        var password = $scope.password;
+        $http({
+            url: 'http://localhost/WP-calculator/model/server.php',
+            method: 'POST',
+            headers: {
+                'Content-Type': 'application/x-www-form-urlencoded'
+            },
+            data: 'username='+username+'&password='+password
+        }).then(function(response) {
+            if(response.data.status == 'loggedin') {
+                user.saveData(response.data);
+                $location.path('/home');
+            } else {
+                alert('invalid login');
             }
-        });
+        })
+
+        $http({
+            url: 'http://127.0.0.1:5000/api',
+            method: 'POST',
+            headers: {
+                'Content-Type': 'application/json;charset=utf-8'
+            },
+            data: {username:username}
+        }).then(function(response) {
+            console.log(response.data)
+            userInfo.addUser(response.data);
+        })
+
     }
 
-})();
+        /*$scope.getCustomer = function () {
+            $http.post("./model/getCustomer.php", {'uName': $cookies.get('username')}).success(function (data) {
+                $scope.customer = data;
+
+            });
+        }*/
+});
+app.controller('dashboardCtrl', function($scope, user,userInfo, $http) {
+    $scope.user = user.getName();
+    $scope.level = userInfo.getLevel();
+    $scope.newPass = function() {
+        var password = $scope.newpassword;
+       /* $http({
+            url: 'http://localhost/angularjs-mysql/updatePass.php',
+            method: 'POST',
+            headers: {
+                'Content-Type': 'application/x-www-form-urlencoded'
+            },
+            data: 'newPass='+password+'&id='+user.getID()
+        }).then(function(response) {
+            if(response.data.status == 'done') {
+                alert('Password updated');
+            } else {
+                alert('CSRF maybe?');
+            }
+        })*/
+    }
+});
+
+app.service('userInfo',function () {
+    var userLevel;
+    this.addUser = function (data) {
+        userLevel = data.summonerLevel
+
+    }
+    this.getLevel = function () {
+        return userLevel;
+    }
+
+})
+app.service('user', function() {
+    var username;
+    var loggedin = false;
+    var id;
+
+    this.getName = function() {
+        return username;
+    };
+
+    this.setID = function(userID) {
+        id = userID;
+    };
+    this.getID = function() {
+        return id;
+    };
+
+    this.isUserLoggedIn = function() {
+        if(!!localStorage.getItem('login')) {
+            loggedin = true;
+            var data = JSON.parse(localStorage.getItem('login'));
+            username = data.username;
+            id = data.id;
+        }
+        return loggedin;
+    };
+
+    this.saveData = function(data) {
+        username = data.user;
+        id = data.id;
+        loggedin = true;
+        localStorage.setItem('login', JSON.stringify({
+            username: username,
+            id: id
+        }));
+    };
+
+    this.clearData = function() {
+        localStorage.removeItem('login');
+        username = "";
+        id = "";
+        loggedin = false;
+    }
+})
+
