@@ -22,6 +22,7 @@ class Requester(object):
         ),
             params=args
         )
+        print(response.headers)
         return response.json()
 
     def get_summoner_by_name(self, name):
@@ -68,3 +69,32 @@ class Requester(object):
 
     def get_spell_info_by_spell_id(self, id):
         return Consts.summoner_spell[id]
+
+    def get_league_info(self, summonerId):
+        api_url = Consts.URL['league_info'].format(
+            versionNumber=Consts.versionNumber,
+            id=summonerId
+        )
+        return self.request(api_url)
+
+    def get_games_for_champ_by_accountId(self, accountId, champId):
+        api_url = Consts.URL['last_few_games'].format(
+            versionNumber=Consts.versionNumber,
+            accountId=accountId
+        )
+        return self.request(api_url, {"champion": champId})
+
+    def get_games_by_accountId(self, accountId, resultCount):
+        api_url = Consts.URL['last_few_games'].format(
+            versionNumber=Consts.versionNumber,
+            accountId=accountId
+        )
+        return self.request(api_url, {"beginIndex": 0,
+                                      "endIndex": resultCount})
+
+    def get_current_game(self, summonerId):
+        api_url = Consts.URL['current_game'].format(
+            versionNumber=Consts.versionNumber,
+            summonerId=summonerId
+        )
+        return self.request(api_url)

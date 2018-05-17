@@ -1,0 +1,31 @@
+
+<h2>{{user}}'s Last 20 Games</h2>
+<h3>Wins: {{win}} Losses: {{loss}}</h3>
+<div id="table-wrapper" style="overflow-y: scroll; height: 450px;" data-ng-init="getMatches()" >
+
+    <table class="table">
+    <thead class="thead-dark">
+    <tr>
+        <th scope="col">Index</th>
+        <th scope="col">gameId</th>
+        <th scope="col">champion</th>
+        <th scope="col">season</th>
+        <th scope="col">timestamp</th>
+        <th scope="col">role</th>
+        <th scope="col">lane</th>
+    </tr>
+    </thead>
+    <tbody ng-repeat="match in matches">
+    <tr>
+        <th scope="row">{{$index}}</th>
+        <td>{{match.gameId}}</td>
+        <td>{{match.champion}}</td>
+        <td>{{match.season}}</td>
+        <td>{{match.timestamp}}</td>
+        <td>{{match.role}}</td>
+        <td>{{match.lane}}</td>
+    </tr>
+    </tbody>
+    </table>
+
+</div>

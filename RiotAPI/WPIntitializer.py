@@ -4,12 +4,15 @@ versionNumber = '3'
 URL = {
     'base': 'https://{regionHost}{url}',
     'summoner_by_name': '/lol/summoner/v{versionNumber}/summoners/by-name/{summonerName}',
-    'last_20_games': '/lol/match/v{versionNumber}/matchlists/by-account/{accountId}/recent',
+    'last_20_games': '/lol/match/v{versionNumber}/matchlists/by-account/{accountId}?endIndex=20',
+    'last_few_games': '/lol/match/v{versionNumber}/matchlists/by-account/{accountId}',
     'match_history': '/lol/match/v{versionNumber}/matches/{matchId}',
     'champion_info': '/lol/static-data/v{versionNumber}/champions/{id}',
     'static_champ_info': '/lol/static-data/v{versionNumber}/champions',
     'summoner_spells': '/lol/static-data/v{versionNumber}/summoner-spells',
-    'summoner_spell_info': '/lol/static-data/v{versionNumber}/summoner-spells/{id}'
+    'summoner_spell_info': '/lol/static-data/v{versionNumber}/summoner-spells/{id}',
+    'league_info': '/lol/league/v{versionNumber}/positions/by-summoner/{id}',
+    'current_game': '/lol/spectator/v{versionNumber}/active-games/by-summoner/{summonerId}'
 }
 
 summoner_spell = {

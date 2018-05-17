@@ -2,218 +2,352 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="778d299f-1aea-4913-b74f-977c0e6c266f" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/champs/Aatrox.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/champs/Ahri.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/champs/Akali.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/champs/Alistar.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/champs/Amumu.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/champs/Anivia.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/champs/Annie.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/champs/Ashe.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/champs/AurelionSol.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/champs/Azir.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/champs/Bard.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/champs/Blitzcrank.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/champs/Brand.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/champs/Braum.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/champs/Caitlyn.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/champs/Camille.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/champs/Cassiopeia.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/champs/Chogath.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/champs/Corki.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/champs/Darius.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/champs/Diana.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/champs/DrMundo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/champs/Draven.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/champs/Ekko.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/champs/Elise.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/champs/Evelynn.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/champs/Ezreal.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/champs/Fiddlesticks.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/champs/Fiora.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/champs/Fizz.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/champs/Galio.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/champs/Gangplank.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/champs/Garen.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/champs/Gnar.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/champs/Gragas.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/champs/Graves.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/champs/Hecarim.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/champs/Heimerdinger.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/champs/Illaoi.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/champs/Irelia.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/champs/Ivern.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/champs/Janna.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/champs/JarvanIV.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/champs/Jax.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/champs/Jayce.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/champs/Jhin.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/champs/Jinx.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/champs/Kaisa.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/champs/Kalista.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/champs/Karma.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/champs/Karthus.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/champs/Kassadin.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/champs/Katarina.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/champs/Kayle.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/champs/Kayn.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/champs/Kennen.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/champs/Khazix.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/champs/Kindred.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/champs/Kled.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/champs/KogMaw.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/champs/Leblanc.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/champs/LeeSin.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/champs/Leona.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/champs/Lissandra.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/champs/Lucian.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/champs/Lulu.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/champs/Lux.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/champs/Malphite.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/champs/Malzahar.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/champs/Maokai.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/champs/MasterYi.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/champs/MissFortune.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/champs/MonkeyKing.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/champs/Mordekaiser.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/champs/Morgana.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/champs/Nami.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/champs/Nasus.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/champs/Nautilus.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/champs/Nidalee.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/champs/Nocturne.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/champs/Nunu.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/champs/Olaf.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/champs/Orianna.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/champs/Ornn.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/champs/Pantheon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/champs/Poppy.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/champs/Quinn.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/champs/Rakan.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/champs/Rammus.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/champs/RekSai.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/champs/Renekton.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/champs/Rengar.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/champs/Riven.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/champs/Rumble.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/champs/Ryze.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/champs/Sejuani.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/champs/Shaco.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/champs/Shen.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/champs/Shyvana.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/champs/Singed.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/champs/Sion.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/champs/Sivir.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/champs/Skarner.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/champs/Sona.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/champs/Soraka.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/champs/Swain.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/champs/Syndra.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/champs/TahmKench.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/champs/Taliyah.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/champs/Talon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/champs/Taric.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/champs/Teemo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/champs/Thresh.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/champs/Tristana.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/champs/Trundle.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/champs/Tryndamere.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/champs/TwistedFate.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/champs/Twitch.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/champs/Udyr.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/champs/Urgot.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/champs/Varus.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/champs/Vayne.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/champs/Veigar.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/champs/Velkoz.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/champs/Vi.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/champs/Viktor.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/champs/Vladimir.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/champs/Volibear.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/champs/Warwick.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/champs/Xayah.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/champs/Xerath.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/champs/XinZhao.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/champs/Yasuo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/champs/Yorick.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/champs/Zac.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/champs/Zed.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/champs/Ziggs.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/champs/Zilean.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/champs/Zoe.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/champs/Zyra.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/champs/angular1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/champs/atom.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/champs/babel copy.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/champs/babel.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/champs/backbone.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/champs/cssnext.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/champs/ember.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/champs/expressjs.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/champs/gitflow.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/champs/gulp.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/champs/hexo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/champs/html5-css3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/champs/icon-game-lol.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/champs/javascript.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/champs/jenkins.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/champs/jquery.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/champs/keystonejs.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/champs/koajs.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/champs/momentjs.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/champs/mongodb.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/champs/phonegap.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/champs/react.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/champs/reactioncommerce.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/champs/reactnative.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/champs/restify.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/champs/sass.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/champs/sublimetext.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/champs/threejs.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/champs/typescript.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/champs/vscode.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/champs/yeoman.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bg.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/simple-sidebar.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/champs/angular2.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/champs/bootstrap.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/champs/chrome-devtools.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/champs/d3.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/champs/docker.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/champs/eslint.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/champs/graphql.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/champs/grunt.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/champs/less.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/champs/lodash.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/champs/loopback.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/champs/meteor.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/champs/naustudio.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/champs/nodejs.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/champs/postcss.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/champs/raphael.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/champs/redux.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/champs/relay.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/champs/requirejs.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/champs/squarespace.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/champs/stylelint.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/champs/webpack.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/d3-legend.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/d3.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dashboard.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/home/champions.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/home/data.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/model/addCustomer.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/model/getCustomer.php" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/WPCalc.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/WPCalcRequester.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/WPIntitializer.py" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/angularjs-mysql/server.php" afterPath="$PROJECT_DIR$/model/server.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/angularjs-mysql/updatePass.php" afterPath="$PROJECT_DIR$/model/updatePass.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/home/static.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/home/table.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/model/checkcredentials.php" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/apple-icon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/avatar.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/bg1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/bg11.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/bg3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/bg4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/bg5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/bg6.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/bg7.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/bg8.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/blurred-image-1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/creative-tim-white-slim2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/default-avatar.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/eva.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/favicon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/flags/AD.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/flags/AE.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/flags/AG.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/flags/AM.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/flags/AR.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/flags/AT.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/flags/AU.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/flags/BE.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/flags/BF.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/flags/BG.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/flags/BO.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/flags/BR.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/flags/CA.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/flags/CD.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/flags/CG.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/flags/CH.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/flags/CL.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/flags/CM.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/flags/CN.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/flags/CO.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/flags/CZ.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/flags/DE.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/flags/DJ.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/flags/DK.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/flags/DZ.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/flags/EE.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/flags/EG.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/flags/ES.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/flags/FI.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/flags/FR.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/flags/GA.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/flags/GB.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/flags/GM.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/flags/GT.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/flags/HN.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/flags/HT.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/flags/HU.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/flags/ID.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/flags/IE.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/flags/IL.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/flags/IN.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/flags/IQ.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/flags/IR.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/flags/IT.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/flags/JM.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/flags/JO.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/flags/JP.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/flags/KG.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/flags/KN.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/flags/KP.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/flags/KR.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/flags/KW.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/flags/KZ.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/flags/LA.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/flags/LB.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/flags/LC.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/flags/LS.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/flags/LU.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/flags/LV.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/flags/MG.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/flags/MK.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/flags/ML.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/flags/MM.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/flags/MT.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/flags/MX.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/flags/NA.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/flags/NE.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/flags/NG.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/flags/NI.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/flags/NL.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/flags/NO.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/flags/OM.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/flags/PA.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/flags/PE.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/flags/PG.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/flags/PK.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/flags/PL.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/flags/PT.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/flags/PY.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/flags/QA.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/flags/RO.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/flags/RU.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/flags/RW.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/flags/SA.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/flags/SE.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/flags/SG.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/flags/SL.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/flags/SN.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/flags/SO.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/flags/SV.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/flags/TD.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/flags/TJ.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/flags/TL.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/flags/TR.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/flags/TZ.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/flags/UA.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/flags/US.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/flags/VE.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/flags/VN.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/flags/YE.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/header.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/hero-image-1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/hero-image-2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/hero-image-3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/invision-white-slim.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/landing.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/login.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/logo-square.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/logo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/now-logo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/nucleo-logo.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/profile.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/ryan.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/model/addCustomer.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/model/getCustomer.php" afterPath="" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/img/champs/Aatrox.png" afterPath="$PROJECT_DIR$/home/img/Aatrox.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/img/champs/Ahri.png" afterPath="$PROJECT_DIR$/home/img/Ahri.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/img/champs/Akali.png" afterPath="$PROJECT_DIR$/home/img/Akali.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/img/champs/Alistar.png" afterPath="$PROJECT_DIR$/home/img/Alistar.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/img/champs/Amumu.png" afterPath="$PROJECT_DIR$/home/img/Amumu.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/img/champs/Anivia.png" afterPath="$PROJECT_DIR$/home/img/Anivia.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/img/champs/Annie.png" afterPath="$PROJECT_DIR$/home/img/Annie.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/img/champs/Ashe.png" afterPath="$PROJECT_DIR$/home/img/Ashe.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/img/champs/AurelionSol.png" afterPath="$PROJECT_DIR$/home/img/AurelionSol.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/img/champs/Azir.png" afterPath="$PROJECT_DIR$/home/img/Azir.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/img/champs/Bard.png" afterPath="$PROJECT_DIR$/home/img/Bard.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/img/champs/Blitzcrank.png" afterPath="$PROJECT_DIR$/home/img/Blitzcrank.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/img/champs/Brand.png" afterPath="$PROJECT_DIR$/home/img/Brand.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/img/champs/Braum.png" afterPath="$PROJECT_DIR$/home/img/Braum.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/img/champs/Caitlyn.png" afterPath="$PROJECT_DIR$/home/img/Caitlyn.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/img/champs/Camille.png" afterPath="$PROJECT_DIR$/home/img/Camille.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/img/champs/Cassiopeia.png" afterPath="$PROJECT_DIR$/home/img/Cassiopeia.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/img/champs/Chogath.png" afterPath="$PROJECT_DIR$/home/img/Chogath.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/img/champs/Corki.png" afterPath="$PROJECT_DIR$/home/img/Corki.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/img/champs/Darius.png" afterPath="$PROJECT_DIR$/home/img/Darius.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/img/champs/Diana.png" afterPath="$PROJECT_DIR$/home/img/Diana.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/img/champs/DrMundo.png" afterPath="$PROJECT_DIR$/home/img/DrMundo.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/img/champs/Draven.png" afterPath="$PROJECT_DIR$/home/img/Draven.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/img/champs/Ekko.png" afterPath="$PROJECT_DIR$/home/img/Ekko.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/img/champs/Elise.png" afterPath="$PROJECT_DIR$/home/img/Elise.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/img/champs/Evelynn.png" afterPath="$PROJECT_DIR$/home/img/Evelynn.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/img/champs/Ezreal.png" afterPath="$PROJECT_DIR$/home/img/Ezreal.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/img/champs/Fiddlesticks.png" afterPath="$PROJECT_DIR$/home/img/Fiddlesticks.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/img/champs/Fiora.png" afterPath="$PROJECT_DIR$/home/img/Fiora.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/img/champs/Fizz.png" afterPath="$PROJECT_DIR$/home/img/Fizz.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/img/champs/Galio.png" afterPath="$PROJECT_DIR$/home/img/Galio.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/img/champs/Gangplank.png" afterPath="$PROJECT_DIR$/home/img/Gangplank.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/img/champs/Garen.png" afterPath="$PROJECT_DIR$/home/img/Garen.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/img/champs/Gnar.png" afterPath="$PROJECT_DIR$/home/img/Gnar.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/img/champs/Gragas.png" afterPath="$PROJECT_DIR$/home/img/Gragas.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/img/champs/Graves.png" afterPath="$PROJECT_DIR$/home/img/Graves.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/img/champs/Hecarim.png" afterPath="$PROJECT_DIR$/home/img/Hecarim.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/img/champs/Heimerdinger.png" afterPath="$PROJECT_DIR$/home/img/Heimerdinger.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/img/champs/Illaoi.png" afterPath="$PROJECT_DIR$/home/img/Illaoi.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/img/champs/Irelia.png" afterPath="$PROJECT_DIR$/home/img/Irelia.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/img/champs/Ivern.png" afterPath="$PROJECT_DIR$/home/img/Ivern.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/img/champs/Janna.png" afterPath="$PROJECT_DIR$/home/img/Janna.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/img/champs/JarvanIV.png" afterPath="$PROJECT_DIR$/home/img/JarvanIV.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/img/champs/Jax.png" afterPath="$PROJECT_DIR$/home/img/Jax.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/img/champs/Jayce.png" afterPath="$PROJECT_DIR$/home/img/Jayce.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/img/champs/Jhin.png" afterPath="$PROJECT_DIR$/home/img/Jhin.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/img/champs/Jinx.png" afterPath="$PROJECT_DIR$/home/img/Jinx.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/img/champs/Kaisa.png" afterPath="$PROJECT_DIR$/home/img/Kaisa.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/img/champs/Kalista.png" afterPath="$PROJECT_DIR$/home/img/Kalista.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/img/champs/Karma.png" afterPath="$PROJECT_DIR$/home/img/Karma.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/img/champs/Karthus.png" afterPath="$PROJECT_DIR$/home/img/Karthus.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/img/champs/Kassadin.png" afterPath="$PROJECT_DIR$/home/img/Kassadin.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/img/champs/Katarina.png" afterPath="$PROJECT_DIR$/home/img/Katarina.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/img/champs/Kayle.png" afterPath="$PROJECT_DIR$/home/img/Kayle.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/img/champs/Kayn.png" afterPath="$PROJECT_DIR$/home/img/Kayn.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/img/champs/Kennen.png" afterPath="$PROJECT_DIR$/home/img/Kennen.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/img/champs/Khazix.png" afterPath="$PROJECT_DIR$/home/img/Khazix.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/img/champs/Kindred.png" afterPath="$PROJECT_DIR$/home/img/Kindred.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/img/champs/Kled.png" afterPath="$PROJECT_DIR$/home/img/Kled.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/img/champs/KogMaw.png" afterPath="$PROJECT_DIR$/home/img/KogMaw.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/img/champs/Leblanc.png" afterPath="$PROJECT_DIR$/home/img/Leblanc.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/img/champs/LeeSin.png" afterPath="$PROJECT_DIR$/home/img/LeeSin.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/img/champs/Leona.png" afterPath="$PROJECT_DIR$/home/img/Leona.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/img/champs/Lissandra.png" afterPath="$PROJECT_DIR$/home/img/Lissandra.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/img/champs/Lucian.png" afterPath="$PROJECT_DIR$/home/img/Lucian.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/img/champs/Lulu.png" afterPath="$PROJECT_DIR$/home/img/Lulu.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/img/champs/Lux.png" afterPath="$PROJECT_DIR$/home/img/Lux.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/img/champs/Malphite.png" afterPath="$PROJECT_DIR$/home/img/Malphite.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/img/champs/Malzahar.png" afterPath="$PROJECT_DIR$/home/img/Malzahar.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/img/champs/Maokai.png" afterPath="$PROJECT_DIR$/home/img/Maokai.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/img/champs/MasterYi.png" afterPath="$PROJECT_DIR$/home/img/MasterYi.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/img/champs/MissFortune.png" afterPath="$PROJECT_DIR$/home/img/MissFortune.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/img/champs/MonkeyKing.png" afterPath="$PROJECT_DIR$/home/img/MonkeyKing.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/img/champs/Mordekaiser.png" afterPath="$PROJECT_DIR$/home/img/Mordekaiser.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/img/champs/Morgana.png" afterPath="$PROJECT_DIR$/home/img/Morgana.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/img/champs/Nami.png" afterPath="$PROJECT_DIR$/home/img/Nami.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/img/champs/Nasus.png" afterPath="$PROJECT_DIR$/home/img/Nasus.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/img/champs/Nautilus.png" afterPath="$PROJECT_DIR$/home/img/Nautilus.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/img/champs/Nidalee.png" afterPath="$PROJECT_DIR$/home/img/Nidalee.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/img/champs/Nocturne.png" afterPath="$PROJECT_DIR$/home/img/Nocturne.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/img/champs/Nunu.png" afterPath="$PROJECT_DIR$/home/img/Nunu.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/img/champs/Olaf.png" afterPath="$PROJECT_DIR$/home/img/Olaf.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/img/champs/Orianna.png" afterPath="$PROJECT_DIR$/home/img/Orianna.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/img/champs/Ornn.png" afterPath="$PROJECT_DIR$/home/img/Ornn.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/img/champs/Pantheon.png" afterPath="$PROJECT_DIR$/home/img/Pantheon.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/img/champs/Poppy.png" afterPath="$PROJECT_DIR$/home/img/Poppy.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/img/champs/Quinn.png" afterPath="$PROJECT_DIR$/home/img/Quinn.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/img/champs/Rakan.png" afterPath="$PROJECT_DIR$/home/img/Rakan.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/img/champs/Rammus.png" afterPath="$PROJECT_DIR$/home/img/Rammus.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/img/champs/RekSai.png" afterPath="$PROJECT_DIR$/home/img/RekSai.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/img/champs/Renekton.png" afterPath="$PROJECT_DIR$/home/img/Renekton.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/img/champs/Rengar.png" afterPath="$PROJECT_DIR$/home/img/Rengar.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/img/champs/Riven.png" afterPath="$PROJECT_DIR$/home/img/Riven.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/img/champs/Rumble.png" afterPath="$PROJECT_DIR$/home/img/Rumble.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/img/champs/Ryze.png" afterPath="$PROJECT_DIR$/home/img/Ryze.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/img/champs/Sejuani.png" afterPath="$PROJECT_DIR$/home/img/Sejuani.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/img/champs/Shaco.png" afterPath="$PROJECT_DIR$/home/img/Shaco.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/img/champs/Shen.png" afterPath="$PROJECT_DIR$/home/img/Shen.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/img/champs/Shyvana.png" afterPath="$PROJECT_DIR$/home/img/Shyvana.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/img/champs/Singed.png" afterPath="$PROJECT_DIR$/home/img/Singed.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/img/champs/Sion.png" afterPath="$PROJECT_DIR$/home/img/Sion.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/img/champs/Sivir.png" afterPath="$PROJECT_DIR$/home/img/Sivir.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/img/champs/Skarner.png" afterPath="$PROJECT_DIR$/home/img/Skarner.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/img/champs/Sona.png" afterPath="$PROJECT_DIR$/home/img/Sona.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/img/champs/Soraka.png" afterPath="$PROJECT_DIR$/home/img/Soraka.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/img/champs/Swain.png" afterPath="$PROJECT_DIR$/home/img/Swain.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/img/champs/Syndra.png" afterPath="$PROJECT_DIR$/home/img/Syndra.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/img/champs/TahmKench.png" afterPath="$PROJECT_DIR$/home/img/TahmKench.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/img/champs/Taliyah.png" afterPath="$PROJECT_DIR$/home/img/Taliyah.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/img/champs/Talon.png" afterPath="$PROJECT_DIR$/home/img/Talon.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/img/champs/Taric.png" afterPath="$PROJECT_DIR$/home/img/Taric.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/img/champs/Teemo.png" afterPath="$PROJECT_DIR$/home/img/Teemo.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/img/champs/Thresh.png" afterPath="$PROJECT_DIR$/home/img/Thresh.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/img/champs/Tristana.png" afterPath="$PROJECT_DIR$/home/img/Tristana.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/img/champs/Trundle.png" afterPath="$PROJECT_DIR$/home/img/Trundle.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/img/champs/Tryndamere.png" afterPath="$PROJECT_DIR$/home/img/Tryndamere.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/img/champs/TwistedFate.png" afterPath="$PROJECT_DIR$/home/img/TwistedFate.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/img/champs/Twitch.png" afterPath="$PROJECT_DIR$/home/img/Twitch.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/img/champs/Udyr.png" afterPath="$PROJECT_DIR$/home/img/Udyr.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/img/champs/Urgot.png" afterPath="$PROJECT_DIR$/home/img/Urgot.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/img/champs/Varus.png" afterPath="$PROJECT_DIR$/home/img/Varus.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/img/champs/Vayne.png" afterPath="$PROJECT_DIR$/home/img/Vayne.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/img/champs/Veigar.png" afterPath="$PROJECT_DIR$/home/img/Veigar.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/img/champs/Velkoz.png" afterPath="$PROJECT_DIR$/home/img/Velkoz.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/img/champs/Vi.png" afterPath="$PROJECT_DIR$/home/img/Vi.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/img/champs/Viktor.png" afterPath="$PROJECT_DIR$/home/img/Viktor.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/img/champs/Vladimir.png" afterPath="$PROJECT_DIR$/home/img/Vladimir.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/img/champs/Volibear.png" afterPath="$PROJECT_DIR$/home/img/Volibear.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/img/champs/Warwick.png" afterPath="$PROJECT_DIR$/home/img/Warwick.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/img/champs/Xayah.png" afterPath="$PROJECT_DIR$/home/img/Xayah.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/img/champs/Xerath.png" afterPath="$PROJECT_DIR$/home/img/Xerath.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/img/champs/XinZhao.png" afterPath="$PROJECT_DIR$/home/img/XinZhao.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/img/champs/Yasuo.png" afterPath="$PROJECT_DIR$/home/img/Yasuo.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/img/champs/Yorick.png" afterPath="$PROJECT_DIR$/home/img/Yorick.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/img/champs/Zac.png" afterPath="$PROJECT_DIR$/home/img/Zac.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/img/champs/Zed.png" afterPath="$PROJECT_DIR$/home/img/Zed.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/img/champs/Ziggs.png" afterPath="$PROJECT_DIR$/home/img/Ziggs.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/img/champs/Zilean.png" afterPath="$PROJECT_DIR$/home/img/Zilean.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/img/champs/Zoe.png" afterPath="$PROJECT_DIR$/home/img/Zoe.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/img/champs/Zyra.png" afterPath="$PROJECT_DIR$/home/img/Zyra.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/img/champs/angular1.png" afterPath="$PROJECT_DIR$/home/img/angular1.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/img/champs/angular2.svg" afterPath="$PROJECT_DIR$/home/img/angular2.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/img/champs/atom.png" afterPath="$PROJECT_DIR$/home/img/atom.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/img/champs/babel copy.png" afterPath="$PROJECT_DIR$/home/img/babel copy.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/img/champs/babel.png" afterPath="$PROJECT_DIR$/home/img/babel.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/img/champs/backbone.png" afterPath="$PROJECT_DIR$/home/img/backbone.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/img/champs/bootstrap.svg" afterPath="$PROJECT_DIR$/home/img/bootstrap.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/img/champs/chrome-devtools.svg" afterPath="$PROJECT_DIR$/home/img/chrome-devtools.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/img/champs/cssnext.png" afterPath="$PROJECT_DIR$/home/img/cssnext.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/img/champs/d3.svg" afterPath="$PROJECT_DIR$/home/img/d3.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/img/champs/docker.svg" afterPath="$PROJECT_DIR$/home/img/docker.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/img/champs/ember.png" afterPath="$PROJECT_DIR$/home/img/ember.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/img/champs/eslint.svg" afterPath="$PROJECT_DIR$/home/img/eslint.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/img/champs/expressjs.png" afterPath="$PROJECT_DIR$/home/img/expressjs.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/img/champs/gitflow.png" afterPath="$PROJECT_DIR$/home/img/gitflow.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/img/champs/graphql.svg" afterPath="$PROJECT_DIR$/home/img/graphql.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/img/champs/grunt.svg" afterPath="$PROJECT_DIR$/home/img/grunt.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/img/champs/gulp.png" afterPath="$PROJECT_DIR$/home/img/gulp.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/img/champs/hexo.png" afterPath="$PROJECT_DIR$/home/img/hexo.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/img/champs/html5-css3.png" afterPath="$PROJECT_DIR$/home/img/html5-css3.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/img/champs/icon-game-lol.png" afterPath="$PROJECT_DIR$/home/img/icon-game-lol.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/img/champs/javascript.png" afterPath="$PROJECT_DIR$/home/img/javascript.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/img/champs/jenkins.png" afterPath="$PROJECT_DIR$/home/img/jenkins.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/img/champs/jquery.png" afterPath="$PROJECT_DIR$/home/img/jquery.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/img/champs/keystonejs.png" afterPath="$PROJECT_DIR$/home/img/keystonejs.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/img/champs/koajs.png" afterPath="$PROJECT_DIR$/home/img/koajs.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/img/champs/less.svg" afterPath="$PROJECT_DIR$/home/img/less.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/img/champs/lodash.svg" afterPath="$PROJECT_DIR$/home/img/lodash.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/img/champs/loopback.svg" afterPath="$PROJECT_DIR$/home/img/loopback.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/img/champs/meteor.svg" afterPath="$PROJECT_DIR$/home/img/meteor.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/img/champs/momentjs.png" afterPath="$PROJECT_DIR$/home/img/momentjs.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/img/champs/mongodb.png" afterPath="$PROJECT_DIR$/home/img/mongodb.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/img/champs/naustudio.svg" afterPath="$PROJECT_DIR$/home/img/naustudio.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/img/champs/nodejs.svg" afterPath="$PROJECT_DIR$/home/img/nodejs.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/img/champs/phonegap.png" afterPath="$PROJECT_DIR$/home/img/phonegap.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/img/champs/postcss.svg" afterPath="$PROJECT_DIR$/home/img/postcss.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/img/champs/raphael.svg" afterPath="$PROJECT_DIR$/home/img/raphael.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/img/champs/react.png" afterPath="$PROJECT_DIR$/home/img/react.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/img/champs/reactioncommerce.png" afterPath="$PROJECT_DIR$/home/img/reactioncommerce.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/img/champs/reactnative.png" afterPath="$PROJECT_DIR$/home/img/reactnative.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/img/champs/redux.svg" afterPath="$PROJECT_DIR$/home/img/redux.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/img/champs/relay.svg" afterPath="$PROJECT_DIR$/home/img/relay.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/img/champs/requirejs.svg" afterPath="$PROJECT_DIR$/home/img/requirejs.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/img/champs/restify.png" afterPath="$PROJECT_DIR$/home/img/restify.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/img/champs/sass.png" afterPath="$PROJECT_DIR$/home/img/sass.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/img/champs/squarespace.svg" afterPath="$PROJECT_DIR$/home/img/squarespace.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/img/champs/stylelint.svg" afterPath="$PROJECT_DIR$/home/img/stylelint.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/img/champs/sublimetext.png" afterPath="$PROJECT_DIR$/home/img/sublimetext.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/img/champs/threejs.png" afterPath="$PROJECT_DIR$/home/img/threejs.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/img/champs/typescript.png" afterPath="$PROJECT_DIR$/home/img/typescript.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/img/champs/vscode.png" afterPath="$PROJECT_DIR$/home/img/vscode.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/img/champs/webpack.svg" afterPath="$PROJECT_DIR$/home/img/webpack.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/img/champs/yeoman.png" afterPath="$PROJECT_DIR$/home/img/yeoman.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/js/core/bootstrap.min.js" afterPath="$PROJECT_DIR$/home/js/core/bootstrap.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/js/core/jquery.3.2.1.min.js" afterPath="$PROJECT_DIR$/home/js/core/jquery.3.2.1.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/js/core/popper.min.js" afterPath="$PROJECT_DIR$/home/js/core/popper.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/js/d3-legend.min.js" afterPath="$PROJECT_DIR$/home/js/d3-legend.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/js/d3.min.js" afterPath="$PROJECT_DIR$/home/js/d3.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/js/now-ui-kit.js" afterPath="$PROJECT_DIR$/home/js/now-ui-kit.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/js/plugins/bootstrap-datepicker.js" afterPath="$PROJECT_DIR$/home/js/plugins/bootstrap-datepicker.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/js/plugins/bootstrap-switch.js" afterPath="$PROJECT_DIR$/home/js/plugins/bootstrap-switch.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/js/plugins/jquery.sharrre.js" afterPath="$PROJECT_DIR$/home/js/plugins/jquery.sharrre.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/js/plugins/nouislider.min.js" afterPath="$PROJECT_DIR$/home/js/plugins/nouislider.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/model/updatePass.php" afterPath="$PROJECT_DIR$/model/register.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/RiotAPI/.idea/workspace.xml" afterPath="$PROJECT_DIR$/RiotAPI/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/RiotAPI/WPCalc.py" afterPath="$PROJECT_DIR$/RiotAPI/WPCalc.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/RiotAPI/WPCalcRequester.py" afterPath="$PROJECT_DIR$/RiotAPI/WPCalcRequester.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/RiotAPI/WPIntitializer.py" afterPath="$PROJECT_DIR$/RiotAPI/WPIntitializer.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app.js" afterPath="$PROJECT_DIR$/app.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/css/now-ui-kit.css" afterPath="$PROJECT_DIR$/assets/css/now-ui-kit.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/home/home.view.html" afterPath="$PROJECT_DIR$/home/home.view.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/login/login.view.html" afterPath="$PROJECT_DIR$/login/login.view.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/register/register.view.html" afterPath="$PROJECT_DIR$/register/register.view.html" />
     </list>
     <ignored path="WP-calculator.iws" />
@@ -237,23 +371,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/index.html">
+      <file leaf-file-name="register.view.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/register/register.view.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="20" column="6" selection-start-line="20" selection-start-column="6" selection-end-line="20" selection-end-column="6" />
-              <folding>
-                <element signature="n#style#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
+            <state relative-caret-position="435">
+              <caret line="29" column="0" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="now-ui-kit.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/assets/css/now-ui-kit.css">
+      <file leaf-file-name="checkcredentials.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/model/checkcredentials.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="82530">
-              <caret line="5502" column="1" selection-start-line="5502" selection-start-column="1" selection-end-line="5502" selection-end-column="1" />
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -269,47 +401,98 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="register.view.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/register/register.view.html">
+      <file leaf-file-name="home.view.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/home/home.view.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-267">
-              <caret line="32" column="4" selection-start-line="32" selection-start-column="4" selection-end-line="32" selection-end-column="4" />
+            <state relative-caret-position="105">
+              <caret line="7" column="16" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="16" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="bg.jpg" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/bg.jpg">
-          <provider selected="true" editor-type-id="images">
-            <state />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="home.view.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/home/home.view.html">
+      <file leaf-file-name="app.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="147" column="29" selection-start-line="147" selection-start-column="29" selection-end-line="147" selection-end-column="29" />
+            <state relative-caret-position="180">
+              <caret line="127" column="69" selection-start-line="127" selection-start-column="69" selection-end-line="127" selection-end-column="69" />
               <folding>
-                <element signature="n#style#0;n#!!top" expanded="false" />
-                <element signature="n#div#1;n#div#0;n#!!top" expanded="false" />
+                <element signature="e#1372#2247#0" expanded="false" />
+                <element signature="e#4895#20946#0" expanded="false" />
+                <element signature="e#4917#4953#0" expanded="false" />
+                <element signature="e#4970#5207#0" expanded="false" />
+                <element signature="e#5539#8646#0" expanded="false" />
+                <element signature="e#8837#20853#0" expanded="false" />
+                <element signature="e#20982#21772#0" expanded="false" />
+                <element signature="e#21807#22226#0" expanded="false" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="app.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/app.js">
+      <file leaf-file-name="stats1.csv" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/RiotAPI/stats1.csv">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1035">
-              <caret line="69" column="17" selection-start-line="69" selection-start-column="17" selection-end-line="69" selection-end-column="17" />
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="server.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/model/server.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-45">
+              <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="7" selection-end-column="16" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="register.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/model/register.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="15" column="104" selection-start-line="15" selection-start-column="98" selection-end-line="15" selection-end-column="104" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="static.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/home/static.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="67" column="60" selection-start-line="67" selection-start-column="60" selection-end-line="67" selection-end-column="60" />
+              <folding>
+                <element signature="n#style#0;n#!!top" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="table.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/home/table.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="45">
+              <caret line="3" column="93" selection-start-line="3" selection-start-column="93" selection-end-line="3" selection-end-column="93" />
+              <folding>
+                <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
     </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -331,11 +514,20 @@
         <option value="$PROJECT_DIR$/model/verifyCustomer.php" />
         <option value="$PROJECT_DIR$/dashboard.html" />
         <option value="$PROJECT_DIR$/assets/css/demo.css" />
-        <option value="$PROJECT_DIR$/assets/css/now-ui-kit.css" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/login/login.view.html" />
-        <option value="$PROJECT_DIR$/register/register.view.html" />
+        <option value="$PROJECT_DIR$/user/table.html" />
+        <option value="$PROJECT_DIR$/user/static.html" />
+        <option value="$PROJECT_DIR$/user/wp.html" />
+        <option value="$PROJECT_DIR$/model/curlRequest.php" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/assets/css/now-ui-kit.css" />
+        <option value="$PROJECT_DIR$/home/js/visualizer.js" />
+        <option value="$PROJECT_DIR$/home/static.html" />
+        <option value="$PROJECT_DIR$/home/table.html" />
+        <option value="$PROJECT_DIR$/home/wp.html" />
         <option value="$PROJECT_DIR$/home/home.view.html" />
+        <option value="$PROJECT_DIR$/register/register.view.html" />
+        <option value="$PROJECT_DIR$/model/register.php" />
         <option value="$PROJECT_DIR$/app.js" />
       </list>
     </option>
@@ -350,8 +542,7 @@
     <handled-path value="$PROJECT_DIR$/node_modules" />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="2" />
-    <option name="y" value="43" />
+    <option name="y" value="23" />
     <option name="width" value="1280" />
     <option name="height" value="777" />
   </component>
@@ -410,7 +601,49 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="RiotAPI" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WP-calculator" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WP-calculator" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="register" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WP-calculator" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WP-calculator" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="model" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WP-calculator" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WP-calculator" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="login" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -438,7 +671,11 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="assets" />
+              <option name="myItemId" value="home" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -455,10 +692,6 @@
               <option name="myItemId" value="assets" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="js" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
@@ -472,36 +705,39 @@
     <property name="SearchEverywhereHistoryKey" value="ter&#9;ACTION&#9;ActivateTerminalToolWindow" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
     <property name="js-jscs-nodeInterpreter" value="C:\Program Files\nodejs\node.exe" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="nodejs_interpreter_path" value="/usr/local/bin/node" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/model" />
+      <recent name="$PROJECT_DIR$/home" />
+      <recent name="$PROJECT_DIR$/RiotAPI" />
       <recent name="$PROJECT_DIR$/assets/img" />
       <recent name="$PROJECT_DIR$/assets/css" />
-      <recent name="$PROJECT_DIR$" />
-      <recent name="$PROJECT_DIR$/model" />
-      <recent name="C:\xampp\htdocs\WP-calculator" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/home/img" />
       <recent name="$PROJECT_DIR$/home" />
-      <recent name="$PROJECT_DIR$/assets/js" />
       <recent name="$PROJECT_DIR$" />
-      <recent name="$PROJECT_DIR$/login" />
+      <recent name="$PROJECT_DIR$/RiotAPI" />
+      <recent name="$PROJECT_DIR$/assets/js" />
     </key>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.index.html">
+  <component name="RunManager" selected="JavaScript Debug.static.html">
     <configuration default="false" name="index.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/WP-calculator/index.html">
-      <method />
-    </configuration>
-    <configuration default="false" name="dashboard.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/WP-calculator/components/dashboard.html">
-      <method />
-    </configuration>
-    <configuration default="false" name="home.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/WP-calculator/components/home.html">
       <method />
     </configuration>
     <configuration default="false" name="home.view.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/WP-calculator/home/home.view.html">
       <method />
     </configuration>
     <configuration default="false" name="dashboard.html (1)" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/WP-calculator/dashboard.html">
+      <method />
+    </configuration>
+    <configuration default="false" name="wp.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/WP-calculator/home/wp.html">
+      <method />
+    </configuration>
+    <configuration default="false" name="static.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/WP-calculator/home/static.html">
       <method />
     </configuration>
     <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
@@ -559,18 +795,18 @@
     </configuration>
     <list size="5">
       <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.index.html" />
-      <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.dashboard.html" />
-      <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.home.html" />
-      <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.home.view.html" />
-      <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.dashboard.html (1)" />
+      <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.home.view.html" />
+      <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.dashboard.html (1)" />
+      <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.wp.html" />
+      <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.static.html" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.index.html" />
-        <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.dashboard.html (1)" />
-        <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.home.view.html" />
-        <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.home.html" />
-        <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.dashboard.html" />
+        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.static.html" />
+        <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.wp.html" />
+        <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.index.html" />
+        <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.dashboard.html (1)" />
+        <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.home.view.html" />
       </list>
     </recent_temporary>
   </component>
@@ -595,14 +831,16 @@
       <workItem from="1524167321410" duration="7071000" />
       <workItem from="1524698792016" duration="7610000" />
       <workItem from="1524727244116" duration="12446000" />
+      <workItem from="1524874198561" duration="15108000" />
+      <workItem from="1525335563455" duration="49799000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="65777000" />
+    <option name="totallyTimeSpent" value="130684000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="2" y="43" width="1280" height="777" extended-state="0" />
+    <frame x="0" y="23" width="1280" height="777" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18903892" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -639,52 +877,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/script.js" />
-    <entry file="file://$PROJECT_DIR$/components/home.html" />
-    <entry file="file://$PROJECT_DIR$/components/dashboard.html" />
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
-          <folding>
-            <element signature="n#style#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="19" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/style.css" />
-    <entry file="file://$PROJECT_DIR$/package-lock.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="19" selection-start-line="1" selection-start-column="19" selection-end-line="1" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/model/server.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="n#style#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/components/home.html" />
     <entry file="file://$PROJECT_DIR$/components/dashboard.html" />
     <entry file="file://$PROJECT_DIR$/components/login.html" />
     <entry file="file://$PROJECT_DIR$/angular.js" />
@@ -695,20 +887,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15">
           <caret line="1" column="19" selection-start-line="1" selection-start-column="19" selection-end-line="1" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="19" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/model/updatePass.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="50" selection-start-line="12" selection-start-column="50" selection-end-line="12" selection-end-column="50" />
         </state>
       </provider>
     </entry>
@@ -726,56 +904,56 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/assets/js/core/bootstrap.min.js">
+    <entry file="file://$PROJECT_DIR$/home/js/core/bootstrap.min.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-8370">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/assets/js/core/jquery.3.2.1.min.js">
+    <entry file="file://$PROJECT_DIR$/home/js/core/jquery.3.2.1.min.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/assets/js/core/popper.min.js">
+    <entry file="file://$PROJECT_DIR$/home/js/core/popper.min.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-12151">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/assets/js/now-ui-kit.js">
+    <entry file="file://$PROJECT_DIR$/home/js/now-ui-kit.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-3196">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/assets/js/plugins/nouislider.min.js">
+    <entry file="file://$PROJECT_DIR$/home/js/plugins/nouislider.min.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-435">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/assets/js/plugins/jquery.sharrre.js">
+    <entry file="file://$PROJECT_DIR$/home/js/plugins/jquery.sharrre.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-4260">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/assets/js/plugins/bootstrap-switch.js">
+    <entry file="file://$PROJECT_DIR$/home/js/plugins/bootstrap-switch.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-3630">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/assets/js/plugins/bootstrap-datepicker.js">
+    <entry file="file://$PROJECT_DIR$/home/js/plugins/bootstrap-datepicker.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-195">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -791,28 +969,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/model/connectdb.php" />
     <entry file="file://$PROJECT_DIR$/model/verifyCustomer.php" />
-    <entry file="file://$PROJECT_DIR$/model/server.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="191">
-          <caret line="22" column="34" selection-start-line="22" selection-start-column="34" selection-end-line="22" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/img/champs/d3.svg">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/home/data.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/home/champions.json">
+    <entry file="file://$PROJECT_DIR$/home/img/d3.svg">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -845,31 +1002,140 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/bg.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
+    <entry file="file://$PROJECT_DIR$/RiotAPI/WPCalc.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model/curlRequest.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="60" selection-start-line="1" selection-start-column="60" selection-end-line="1" selection-end-column="60" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RiotAPI/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="21" column="47" selection-start-line="21" selection-start-column="47" selection-end-line="21" selection-end-column="47" />
+          <folding />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/assets/css/simple-sidebar.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1785">
-          <caret line="119" column="4" selection-start-line="119" selection-start-column="4" selection-end-line="119" selection-end-column="20" />
+        <state relative-caret-position="405">
+          <caret line="27" column="15" selection-start-line="27" selection-start-column="2" selection-end-line="27" selection-end-column="15" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/assets/css/now-ui-kit.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="82530">
-          <caret line="5502" column="1" selection-start-line="5502" selection-start-column="1" selection-end-line="5502" selection-end-column="1" />
+        <state relative-caret-position="165">
+          <caret line="5517" column="23" selection-start-line="5517" selection-start-column="23" selection-end-line="5517" selection-end-column="23" />
           <folding />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/home/js/visualizer.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-480">
+          <caret line="7" column="16" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="19" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="35">
+          <caret line="23" column="33" selection-start-line="23" selection-start-column="24" selection-end-line="23" selection-end-column="33" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/home/data.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/home/champions.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-255">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/lib/webstorm.jar!/resources/html5-schema/html5/aria.rnc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="707" column="22" selection-start-line="707" selection-start-column="22" selection-end-line="707" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bg.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/dashboard.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="8685">
+        <state relative-caret-position="404">
           <caret line="579" column="0" selection-start-line="579" selection-start-column="0" selection-end-line="579" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/home/wp.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="67" selection-start-line="1" selection-start-column="67" selection-end-line="1" selection-end-column="67" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/home/table.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="93" selection-start-line="3" selection-start-column="93" selection-end-line="3" selection-end-column="93" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/home/home.view.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="16" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model/checkcredentials.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -884,37 +1150,59 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/register/register.view.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-267">
-          <caret line="32" column="4" selection-start-line="32" selection-start-column="4" selection-end-line="32" selection-end-column="4" />
+        <state relative-caret-position="435">
+          <caret line="29" column="0" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/home/home.view.html">
+    <entry file="file://$PROJECT_DIR$/home/static.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="147" column="29" selection-start-line="147" selection-start-column="29" selection-end-line="147" selection-end-column="29" />
+        <state relative-caret-position="90">
+          <caret line="67" column="60" selection-start-line="67" selection-start-column="60" selection-end-line="67" selection-end-column="60" />
           <folding>
             <element signature="n#style#0;n#!!top" expanded="false" />
-            <element signature="n#div#1;n#div#0;n#!!top" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
+    <entry file="file://$PROJECT_DIR$/model/server.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" column="6" selection-start-line="20" selection-start-column="6" selection-end-line="20" selection-end-column="6" />
-          <folding>
-            <element signature="n#style#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
+        <state relative-caret-position="-45">
+          <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="7" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model/register.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="104" selection-start-line="15" selection-start-column="98" selection-end-line="15" selection-end-column="104" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1035">
-          <caret line="69" column="17" selection-start-line="69" selection-start-column="17" selection-end-line="69" selection-end-column="17" />
+        <state relative-caret-position="180">
+          <caret line="127" column="69" selection-start-line="127" selection-start-column="69" selection-end-line="127" selection-end-column="69" />
+          <folding>
+            <element signature="e#1372#2247#0" expanded="false" />
+            <element signature="e#4895#20946#0" expanded="false" />
+            <element signature="e#4917#4953#0" expanded="false" />
+            <element signature="e#4970#5207#0" expanded="false" />
+            <element signature="e#5539#8646#0" expanded="false" />
+            <element signature="e#8837#20853#0" expanded="false" />
+            <element signature="e#20982#21772#0" expanded="false" />
+            <element signature="e#21807#22226#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RiotAPI/stats1.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
